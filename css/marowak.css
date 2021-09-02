@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	background-color: #2B0657;
+}
+header{
+	background-color: #461C86;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: Bebas Neue,tahoma;
+}
+
+header h1{
+	color: white;
+}
+main{
+	max-width: 600px;
+	font-family: Bebas Neue,tahoma;
+	margin: 0 auto;
+	padding: 20px;
+	color: #73C6B6;
+
+	
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 40px;
+}
+
+header img{
+	border-radius: 50px;
+	width: 300px;
+	border: 10px solid #73C6B6;
+}
+a{
+	color: #73C6B6;
+}
+a:hover{
+	color: #58D68D;
+}
+
+footer{
+	background-color: lightgray;
+	text-align: center;
+	color: black;
+	padding: 50px;
+}
+footer p{
+	margin: 0;
+}
+footer a{
+	color: black;
+}
+footer a:hover{
+	color: black;
+	opacity: .5;
+	background-color: transparent;
+}
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin: 0;
+}
